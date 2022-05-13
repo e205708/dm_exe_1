@@ -2,13 +2,20 @@
 ## 進捗
 
 ### 演習1
-[x] 演習1.1 </br>
-[ ] 演習1.2
+- [x] 演習1.1 </br>
+- [ ] 演習1.2
 
 ## 参考にしたサイト
 
 ### 演習ページ
+
 [1章：入力1次元・連続値出力に対するフィッティング（回帰）](https://github.com/naltoma/ml_exercise/blob/master/ex1.md)
+
+### github
+
+[GitエラーPermission denied (publickey).の解決方法](https://qiita.com/tetsu-upstr/items/e72147250701cf30ee72)
+
+[SSH接続の複数ある秘密鍵（id_rsa）を管理する方法](https://wellstone.design/526/)
 
 ### doctest
 
